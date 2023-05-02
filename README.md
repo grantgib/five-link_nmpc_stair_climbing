@@ -3,4 +3,4 @@ Input-Output Linearization Based Nonlinear Model Predictive Control for Planar F
 
 ![Alt Text](media/ionmpc_normal.gif)
 * Preliminary work for my PhD research qualification exam
-* Paper found [here](media/Gibson_Research_Qualification_Exam_Report)
+* Paper found [here](media/Gibson_Quals_Report.pdf)
